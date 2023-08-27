@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... MetaTrader Wedge in my websites 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... almeshal78@hotmail.com
+
 
 <!---
 saham911/saham911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
